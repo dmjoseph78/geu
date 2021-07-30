@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    background-color: silver;
+    color: black;
+    padding: 17px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: wheat;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(102, 202, 205);
+    color: white;
+  }
+  .news-pic{
+      display: flex;
+  }
+.menu{
+    background-color: cornsilk;
+    overflow: hidden;
+    padding: 20px;
+    word-spacing: 20px;
+}
+.menu a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.end{
+    word-spacing: 50px;
+}
+img{
+    padding: 20px;
+    height: 280px;
+    width: 350px;
+
+}
+.news{
+    display: flex;
+}

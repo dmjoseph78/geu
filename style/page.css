@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: wheat;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(102, 202, 205);
+    color: white;
+  }
+.links{
+    word-spacing: 20px;
+    background-color:black;
+    overflow: hidden;
+    padding: 15px;
+    font-family: inherit;
+    color: #fff;
+    
+}
+.section-a{
+    display: flex;
+    padding: 20px;
+}
+img{
+    padding: 20px;
+}
+.section-b{
+    display: flex;
+}
